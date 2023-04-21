@@ -1,5 +1,13 @@
+@font-face {
+  font-family: 'MonoplexKRWideNerd-BoldItalic';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_Monoplex-widenerd@1.0/MonoplexKRWideNerd-BoldItalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
 .App {
   text-align: center;
+  font-family: 'MonoplexKRWideNerd-BoldItalic';
 }
 
 .App-logo {
